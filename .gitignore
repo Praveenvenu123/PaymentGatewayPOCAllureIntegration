@@ -1,0 +1,8 @@
+# Robot Framework generated reports
+output.xml
+log.html
+report.html
+
+# Allure results
+allure-results/
+reports/
