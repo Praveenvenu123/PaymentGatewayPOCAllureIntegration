@@ -8,7 +8,7 @@ Library           DateTime
 *** Variables ***
 ${BASE_URL}       https://api.us-central1.gcp.commercetools.com
 ${PROJECT_KEY}    chdemoproject
-${TOKEN}          Z2VXc8A5FyLN_d6EXw8BSO5eDIHOcHxt
+${TOKEN}          Qw9QaRbzP59XIsanOw1T7v24uX-652yW
 ${ENDPOINT}       /${PROJECT_KEY}/shopping-lists
 
 *** Test Cases ***
