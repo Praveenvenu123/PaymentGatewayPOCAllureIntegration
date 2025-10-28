@@ -6,3 +6,8 @@ report.html
 # Allure results
 allure-results/
 reports/
+allure-report/
+
+# Ignore Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Automation\RobotFrameworkAPITesting\RobotFrameworkAPITesting\RestAPITests\Resources/../webhook/payment_stub_503.py", line 10, in <module>
+    print("\u26a0\ufe0f  Mock Payment Server DOWN running on port 5001")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\welcome\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
