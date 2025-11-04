@@ -7,9 +7,6 @@ ${BASE_PRICE}      200
 ${VALID_PROMO}     FREE50
 ${INVALID_PROMO}   INVALID123
 
-
-
-
 # ✅ Required Customer Details
 ${CUSTOMER_ID}      CUST12345
 ${CUSTOMER_EMAIL}   iampraveenmech@gmail.com
