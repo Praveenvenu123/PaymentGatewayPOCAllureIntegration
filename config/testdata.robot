@@ -3,8 +3,9 @@ ${BASE_URL}         https://sandbox.cashfree.com/pg
 ${API_VERSION}      2022-09-01
 ${ORDER_AMOUNT}     499.00
 ${ORDER_CURRENCY}   INR
-
-
+${BASE_PRICE}      200
+${VALID_PROMO}     FREE50
+${INVALID_PROMO}   INVALID123
 
 # ✅ Required Customer Details
 ${CUSTOMER_ID}      CUST12345
